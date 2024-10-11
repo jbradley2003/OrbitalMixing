@@ -6,4 +6,4 @@ This web app is built with the p5.js graphics library. I designed the sprites us
 
 # Current State of the Application
 
-![screenshot]()
+![screenshot](previewpic.png)
