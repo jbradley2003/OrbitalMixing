@@ -6,4 +6,6 @@ This web app is built with the p5.js graphics library. I designed the sprites us
 
 # Current State of the Application
 
+This is a preview of the top 2 pairs of orbitals on the webpage. A user can click on two orbitals and a mixed orbital will appear in the center. The example shown is the constructive overlap between two $P_x$ orbitals on the internuclear axis.
+
 ![screenshot](previewpic.png)
